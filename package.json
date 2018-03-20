@@ -1,0 +1,26 @@
+{
+	"name": "github-analysis",
+	"version": "1.0.0",
+	"description": "Tools for querying GitHub for data and doing some simple analysis on that data.",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Christopher Trom",
+	"license": "MIT",
+	"dependencies": {
+		"graphql-client": "^2.0.1",
+		"lodash": "^4.17.5",
+		"moment": "^2.21.0"
+	},
+	"devDependencies": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ctrom/GitHubAnalysis.git"
+	},
+	"bugs": {
+		"url": "https://github.com/ctrom/GitHubAnalysis/issues"
+	},
+	"homepage": "https://github.com/ctrom/GitHubAnalysis#readme"
+}
