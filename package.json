@@ -11,8 +11,8 @@
 	"license": "MIT",
 	"dependencies": {
 		"graphql-client": "^2.0.1",
-		"lodash": "^4.17.5",
-		"moment": "^2.21.0"
+		"lodash": "^4.17.11",
+		"moment": "^2.24.0"
 	},
 	"devDependencies": {},
 	"repository": {
